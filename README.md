@@ -1,6 +1,6 @@
 # House_Price_Prediction_model
 
-# Overview
+
 
 This project involves building a machine learning model to predict house prices based on various features such as location, size, number of rooms, and other relevant characteristics. The goal is to provide accurate price predictions that can assist real estate professionals, buyers, and sellers in making informed decisions.
 
